@@ -1,0 +1,14 @@
+/Users/tylerwalker/code/hellodotnetcore/bin/Debug/netcoreapp2.2/hellodotnetcore.deps.json
+/Users/tylerwalker/code/hellodotnetcore/bin/Debug/netcoreapp2.2/hellodotnetcore.runtimeconfig.json
+/Users/tylerwalker/code/hellodotnetcore/bin/Debug/netcoreapp2.2/hellodotnetcore.runtimeconfig.dev.json
+/Users/tylerwalker/code/hellodotnetcore/bin/Debug/netcoreapp2.2/hellodotnetcore.dll
+/Users/tylerwalker/code/hellodotnetcore/bin/Debug/netcoreapp2.2/hellodotnetcore.pdb
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.csprojAssemblyReference.cache
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.csproj.CoreCompileInputs.cache
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.RazorAssemblyInfo.cache
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.RazorAssemblyInfo.cs
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.AssemblyInfoInputs.cache
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.AssemblyInfo.cs
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.RazorTargetAssemblyInfo.cache
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.dll
+/Users/tylerwalker/code/hellodotnetcore/obj/Debug/netcoreapp2.2/hellodotnetcore.pdb
